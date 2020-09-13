@@ -15,7 +15,7 @@ of San Francisco County, and to estimate how many firefighters should be called 
 ## Objectives
 * Create a linear regression model to predict the required number of suppression personnel for a fire incident in San Francisco based on fire incident characteristics. 
 The model is estimated using the stepwise selection method on a pool of preselected variables related to the response variable.
-* Compare predicted values with true values using mapping visualization tools.
+* Compare predicted values with true values using GIS visualization tools.
 
 ## Dataset Description
 The Fire Incidents datasets, after a subset of the City of San Francisco, includes 485,775 observations and 80 variables, 
