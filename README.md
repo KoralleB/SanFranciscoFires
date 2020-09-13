@@ -10,7 +10,7 @@ of San Francisco County, and to estimate how many firefighters should be called 
 3. [Exploratory Data Analysis](##exploratory-data-analysis)
 4. [Model Diagnosis](##model-diagnosis)
 5. [Result Visualization](##result-visualization)
-6. [Tech Stack](##tech-stack)
+6. [Tech Stack](#tech-stack)
 
 ## Objectives
 * Create a linear regression model to predict the required number of suppression personnel for a fire incident in San Francisco based on fire incident characteristics. 
