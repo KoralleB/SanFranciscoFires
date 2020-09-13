@@ -6,7 +6,7 @@ of San Francisco County, and to estimate how many firefighters should be called 
 
 ## Table of contents
 1. [Objectives](#objectives)
-2. [Dataset](#dataset)
+2. [Dataset Description](#dataset-description)
 3. [Exploratory Data Analysis](#exploratory-data-analysis)
 4. [Model Diagnosis](#model-diagnosis)
 5. [Result Visualization](#result-visualization)
@@ -17,7 +17,7 @@ of San Francisco County, and to estimate how many firefighters should be called 
 The model is estimated using the stepwise selection method on a pool of preselected variables related to the response variable.
 * Compare predicted values with true values using mapping visualization tools.
 
-## Dataset
+## Dataset Description
 The Fire Incidents datasets, after a subset of the City of San Francisco, includes 485,775 observations and 80 variables, 
 describing fire incidents from 2003 till today (2020).
 
