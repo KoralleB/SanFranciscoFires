@@ -5,11 +5,11 @@ The wildfire season in CA inspired me to analyze data related to fire incidents.
 of San Francisco County, and to estimate how many firefighters should be called for different fire incidents.
 
 ## Table of contents
-1. [Objectives](##objectives)
-2. [Dataset](##dataset)
-3. [Exploratory Data Analysis](##exploratory-data-analysis)
-4. [Model Diagnosis](##model-diagnosis)
-5. [Result Visualization](##result-visualization)
+1. [Objectives](#objectives)
+2. [Dataset](#dataset)
+3. [Exploratory Data Analysis](#exploratory-data-analysis)
+4. [Model Diagnosis](#model-diagnosis)
+5. [Result Visualization](#result-visualization)
 6. [Tech Stack](#tech-stack)
 
 ## Objectives
