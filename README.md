@@ -2,7 +2,7 @@
 
 ## Background
 The wildfire season in CA inspired me to analyze data related to fire incidents. I choose to analyze <code>Fire Incidents API</code> from [data.sfgov.org](https://data.sfgov.org/) 
-of San Francisco County, and to estimate how many firefighters should be called for different fire incidents.
+, and to estimate how many firefighters should be called for different fire incidents.
 
 ## Table of contents
 1. [Objectives](#objectives)
